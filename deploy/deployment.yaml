@@ -3,7 +3,6 @@ spec:
     spec:
       containers:
       - image: IMAGE_NAME_HERE
-        kind: ClusterTask
         name: accounts
 
 
