@@ -1,0 +1,8 @@
+spec:
+  template:
+    spec:
+      containers:
+      - image: IMAGE_NAME_HERE
+        name: accounts
+
+
